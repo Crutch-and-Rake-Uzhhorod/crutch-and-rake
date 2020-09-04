@@ -1,0 +1,5 @@
+name: Kolya Vizenko
+
+link to FB: https://www.facebook.com/profile.php?id=100023301580189
+
+link to my test task repository: https://github.com/KolyaViz/C-and-R-Uzh-test
